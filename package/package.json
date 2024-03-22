@@ -1,0 +1,19 @@
+{
+  "name": "hex-oct-to-binary",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2"
+  },
+  "description": "Hexadecimal and octal numbers are converted into binary number",
+  "main": "package/index.js",
+  "repository": {
+    "url": "https://github.com/Ayisha-SS/hex-oct-to-binary--yarn-package",
+    "type": "git"
+  },
+  "license": "MIT",
+  "private": false
+}
